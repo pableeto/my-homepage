@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Xiao Li (李潇)
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,29 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Researcher in CG & CV
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Media Computing group, Microsoft Research Asia
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include computer graphics and vision, especially in appearance modeling and 3D shape generation.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Appearance modeling and (differentible) rendering
+- 3D reconstruction and generation
+- Image based modeling and synthesis
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Ph.D. in Pattern Recognition & Intelligent Systems
+    institution: University of Science and Technology of China
+    year: 2019
+  - course: B.Eng. in Electronic Engineering 
+    institution: University of Science and Technology of China
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,32 +41,34 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: 'mailto:pableetoli@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=hEPx3rwAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/pableeto
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a researcher in Media Computing group at Microsoft Research Asia. 
+Previously I was a graphics algorithm engineer in the Graphics AI team at Kuaishou Technology (Kwai Inc.).
+I got my Ph.D. degree from the joint Ph.D. program between Unitersity of Science and Technology of China and Microsoft Research Asia in 2019, under the supervision of Dr. Baining Guo and Dr. Yong Wang.
+From 2014 to 2019, I was a long-term research intern in Internet Graphics group at Microsoft Research Asia.
+I obtained my B.Eng. degree in Eletronic Engineering also from Unitersity of Science and Technology of China in 2013.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Currently my research interests fall in the cross-field of computer graphics and computer vision.
+Specifically, I am interested in appearance modeling / differentiable rendering, 3D shape synthesis and generation.
