@@ -24,7 +24,7 @@ publication_short: In *SIG2017*
 abstract: We present a convolutional neural network (CNN) based solution for modeling physically plausible spatially varying surface reflectance functions (SVBRDF) from a single photograph of a planar material sample under unknown natural illumination. Gathering a sufficiently large set of labeled training pairs consisting of photographs of SVBRDF samples and corresponding reflectance parameters, is a difficult and arduous process. To reduce the amount of required labeled training data, we propose to leverage the appearance information embedded in unlabeled images of spatially varying materials to self-augment the training process. Starting from an initial approximative network obtained from a small set of labeled training pairs, we estimate provisional model parameters for each unlabeled training exemplar. Given this provisional reflectance estimate, we then synthesize a novel temporary labeled training pair by rendering the exact corresponding image under a new lighting condition. After refining the network using these additional training samples, we re-estimate the provisional model parameters for the unlabeled data and repeat the self-augmentation process until convergence. We demonstrate the efficacy of the proposed network structure on spatially varying wood, metals, and plastics, as well as thoroughly validate the effectiveness of the self-augmentation training process.
 
 # Summary. An optional shortened abstract.
-summary: A novel self-augment training method using few labeled images and large number of unlabeled images for appearance modeling from a single image.
+summary: SIGGRAPH 2017
 
 #tags:
 #- Source Themes
