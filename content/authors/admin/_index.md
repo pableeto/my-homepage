@@ -14,7 +14,7 @@ role: Researcher in CG & CV
 
 # Organizations/Affiliations
 organizations:
-- name: Media Computing group, Microsoft Research Asia
+- name: Microsoft Research Asia
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -64,7 +64,7 @@ email: ""
 # - Visitors
 ---
 
-I am currently a researcher in Media Computing group at Microsoft Research Asia. 
+I am currently a researcher at Microsoft Research Asia. 
 Previously I was a graphics algorithm engineer in the Graphics AI team at Kuaishou Technology (Kwai Inc.).
 I got my Ph.D. degree from the joint Ph.D. program between Unitersity of Science and Technology of China and Microsoft Research Asia in 2019, under the supervision of Dr. Baining Guo and Dr. Yong Wang.
 From 2014 to 2019, I was a long-term research intern in Internet Graphics group at Microsoft Research Asia.
