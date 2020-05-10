@@ -5,7 +5,7 @@ authors:
 - Xiao Li*
 - Yue Dong
 - Pieter Peers
-- Xin Tong
+- Xin Tong (* equal contribution)
 date: "2019-07-10T00:00:00Z"
 # doi: ""
 
