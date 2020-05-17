@@ -1,5 +1,5 @@
 ---
-title: "Capturing Piecewise SVBRDFs with Content Aware Lightin"
+title: "Capturing Piecewise SVBRDFs with Content Aware Lighting"
 authors:
 - Xiao Li
 - Peiran Ren
