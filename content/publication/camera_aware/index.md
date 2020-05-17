@@ -1,7 +1,6 @@
 ---
 title: "Mimicking the In-Camera Color Pipeline for Camera-Aware Object Compositing"
 authors:
-"Jun Gao, Xiao Li, Liwei Wang, Sanja Fidler, Stephen Lin"
 - Jun Gao
 - Xiao Li
 - Liwei Wang
@@ -23,12 +22,7 @@ publication_types: ["3"]
 publication: In *arxiv*
 publication_short: In *arxiv*
 
-abstract: We present a method for compositing virtual objects into a photograph such that the object colors appear to have
-been processed by the photo’s camera imaging pipeline. Compositing in such a camera-aware manner is essential
-for high realism, and it requires the color transformation in the photo’s pipeline to be inferred, which is challenging
-due to the inherent one-to-many mapping that exists from a scene to a photo. To address this problem for the case of
-a single photo taken from an unknown camera, we propose a dual-learning approach in which the reverse color transformation (from the photo to the scene) is jointly estimated.
-Learning of the reverse transformation is used to facilitate learning of the forward mapping, by enforcing cycle consistency of the two processes. We additionally employ a feature sharing schema to extract evidence from the target photo in the reverse mapping to guide the forward color transformation. Our dual-learning approach achieves object compositing results that surpass those of alternative techniques.
+abstract: We present a method for compositing virtual objects into a photograph such that the object colors appear to have been processed by the photo’s camera imaging pipeline. Compositing in such a camera-aware manner is essential for high realism, and it requires the color transformation in the photo’s pipeline to be inferred, which is challenging due to the inherent one-to-many mapping that exists from a scene to a photo. To address this problem for the case of a single photo taken from an unknown camera, we propose a dual-learning approach in which the reverse color transformation (from the photo to the scene) is jointly estimated. Learning of the reverse transformation is used to facilitate learning of the forward mapping, by enforcing cycle consistency of the two processes. We additionally employ a feature sharing schema to extract evidence from the target photo in the reverse mapping to guide the forward color transformation. Our dual-learning approach achieves object compositing results that surpass those of alternative techniques.
 
 # Summary. An optional shortened abstract.
 summary: arxiv Preprint

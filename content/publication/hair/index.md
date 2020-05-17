@@ -22,7 +22,7 @@ publication_types: ["1"]
 publication: In *Pacific Graphics 2013*
 publication_short: In *PG2013*
 
-abstract: In this paper we study the problem of hair interpolation: given two 3D hair models, we want to generate a sequence of intermediate hair models that transform from one input to another both smoothly and aesthetically pleasing. We propose an automatic method that efficiently calculates a many-to-many strand correspondence between two or more given hair models, taking into account the multi-scale clustering structure of hair. Experiments demonstrate that hair interpolation can be used for producing more vivid portrait morphing effects and enabling a novel example-based hair styling methodology, where a user can interactively create new hairstyles by continuously exploring a "style space" spanning multiple input hair models.
+abstract: In this paper we study the problem of hair interpolation. Given two 3D hair models, we want to generate a sequence of intermediate hair models that transform from one input to another both smoothly and aesthetically pleasing. We propose an automatic method that efficiently calculates a many-to-many strand correspondence between two or more given hair models, taking into account the multi-scale clustering structure of hair. Experiments demonstrate that hair interpolation can be used for producing more vivid portrait morphing effects and enabling a novel example-based hair styling methodology, where a user can interactively create new hairstyles by continuously exploring a "style space" spanning multiple input hair models.
 
 # Summary. An optional shortened abstract.
 summary: Pacific Graphics 2013
