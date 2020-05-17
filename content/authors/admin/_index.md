@@ -64,11 +64,14 @@ email: ""
 # - Visitors
 ---
 
-I am currently a researcher at <a href="https://www.msra.cn/">Microsoft Research Asia</a>. 
+I am currently a researcher at <a href="https://www.msra.cn/">Microsoft Research Asia (MSRA)</a>. 
 Previously I was a researcher / alogrithm engineer in <a href="http://www.chongyangma.com/team/index.html">Graphics AI team</a> at <a href="https://www.kuaishou.com/">Kuaishou Technology (Kwai Inc.)</a>.
-I got my Ph.D. degree from the joint Ph.D. program between <a href="https://www.ustc.edu.cn/">Unitersity of Science and Technology of China</a> and Microsoft Research Asia in 2019, under the supervision of Dr. Baining Guo and Dr. Yong Wang.
-From 2014 to 2019, I was a long-term research intern in Internet Graphics group at Microsoft Research Asia.
-I obtained my B.Eng. degree in Eletronic Engineering also from Unitersity of Science and Technology of China in 2013.
+
+I got my Ph.D. degree from the joint Ph.D. program between <a href="https://www.ustc.edu.cn/">Unitersity of Science and Technology of China (USTC)</a> and MSRA in 2019, under the supervision of Dr. Baining Guo and Dr. Yong Wang. I obtained my B.Eng. degree in Eletronic Engineering also from USTC in 2013.
+
+From 2014 to 2019, I was a long-term research intern in Internet Graphics group at MSRA where I conducted my Ph.D. research with thesis topic on appearance and geometry modeling with deep learning approach.
+
+(<a href = "https://mp.weixin.qq.com/s?__biz=MzA4NzIyMDY0OA==&mid=2655393474&idx=1&sn=7268b5e38dddbb216f6354de3a9cf1e4&scene=19#wechat_redirect">Here</a> is an article about my wonderful internship experience at MSRA.)
 
 Currently my research interests fall in the cross-field of computer graphics and computer vision.
 Specifically, I am interested in appearance modeling / differentiable rendering, 3D shape synthesis and generation.
