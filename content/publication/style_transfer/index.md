@@ -20,13 +20,13 @@ date: "2020-06-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *arxiv*
-publication_short: In *arxiv*
+publication: ACM Transactions on Multimedia Computing Communications and Applications
+publication_short: TOMM
 
 abstract: Multimodal and multi-domain stylization are two important problems in the field of image style transfer. Currently, there are few methods that can perform both multimodal and multi-domain stylization simultaneously. In this paper, we propose a unified framework for multimodal and multi-domain style transfer with the support of both exemplar-based reference and randomly sampled guidance. The key component of our method is a novel style distribution alignment module that eliminates the explicit distribution gaps between various style domains and reduces the risk of mode collapse. The multimodal diversity is ensured by either guidance from multiple images or random style code, while the multi-domain controllability is directly achieved by using a domain label. We validate our proposed framework on painting style transfer with a variety of different artistic styles and genres. Qualitative and quantitative comparisons with state-of-the-art methods demonstrate that our method can generate high-quality results of multi-domain styles and multimodal instances with reference style guidance or random sampled style.
 
 # Summary. An optional shortened abstract.
-summary: arxiv Preprint
+summary: ACM Trans. on Multimedia (To appear)
 
 #tags:
 #- Source Themes
