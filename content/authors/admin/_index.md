@@ -18,12 +18,12 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computer graphics and vision, especially in appearance modeling and 3D shape generation.
+bio: My research interests include computer graphics and vision, especially in appearance modeling, neural rendering and 3D synthesis.
 
 interests:
-- Appearance modeling and (differentible) rendering
+- Appearance modeling
 - 3D reconstruction and generation
-- Image based modeling and synthesis
+- Differentible / Neural Rendering
 
 education:
   courses:
@@ -74,6 +74,6 @@ From 2014 to 2019, I was a long-term research intern in <a href=https://www.micr
 (<a href = "https://mp.weixin.qq.com/s?__biz=MzA4NzIyMDY0OA==&mid=2655393474&idx=1&sn=7268b5e38dddbb216f6354de3a9cf1e4&scene=19#wechat_redirect">Here</a> is an article about my wonderful internship experience at MSRA.)
 
 Currently my research interests fall in the cross-field of computer graphics and computer vision.
-Specifically, I am interested in appearance modeling, differentiable rendering, 3D shape / scene synthesis and generation.
+Specifically, I am interested in appearance modeling, differentiable and neural rendering, 3D shape / scene synthesis and generation.
 
-<b>Internship position available:</b> We are hiring research intern(s) for research project related to 3D scene understanding and synthesis. Please drop me an email if you are interested in.
+<b>Internship chances (Updated on 07/27/2021):</b> I am finding perspective research intern(s) for research projects related to Nerual Rendering. Please drop me an email if you are interested in. For gap-year students, please also check the <a href="https://www.msra.cn/zh-cn/news/outreach-articles/2021-2022-%E5%BE%AE%E8%BD%AF%E4%BA%9A%E6%B4%B2%E7%A0%94%E7%A9%B6%E9%99%A2%E6%98%9F%E6%A1%A5%E8%AE%A1%E5%88%92%E5%BC%80%E6%94%BE%E7%94%B3%E8%AF%B7%E5%95%A6%EF%BC%81">MSRA StarBridge program</a> if you want to apply.
