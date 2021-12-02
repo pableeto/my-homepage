@@ -1,5 +1,5 @@
 ---
-title: "Hybrid Instance-aware Temporal Fusion for Online Video Instance Segmentation"
+title: "Hybrid Instance aware Temporal Fusion for Online Video Instance Segmentation"
 authors:
 - Xiang Li
 - Jinglu Wang
