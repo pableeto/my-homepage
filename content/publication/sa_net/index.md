@@ -1,5 +1,5 @@
 ---
-title: "Modeling surface appearance from a single photograph using self-augmented convolutional neural networks"
+title: "Modeling Surface Appearance from a Single Photograph using Self-augmented Convolutional Neural Networks"
 authors:
 - Xiao Li
 - Yue Dong
