@@ -5,7 +5,7 @@ authors:
 - Jinglu Wang
 - Xiao Li
 - Yan Lu
-date: "2017-07-24T00:00:00Z"
+date: "2021-12-01T00:00:00Z"
 # doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -30,7 +30,7 @@ summary: AAAI 2022
 #- Source Themes
 #featured: true
 
-links:
+#links:
 #url_pdf: https://arxiv.org/abs/1809.00886
 #url_code: https://github.com/msraig/InexactSA
 
