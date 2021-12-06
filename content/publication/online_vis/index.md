@@ -31,7 +31,7 @@ summary: AAAI 2022
 #featured: true
 
 links:
-  url_pdf: https://arxiv.org/abs/2112.01695
+url_pdf: https://arxiv.org/abs/2112.01695
 #url_code: https://github.com/msraig/InexactSA
 
 # Featured image
