@@ -1,12 +1,11 @@
 ---
-title: "Mimicking the In-Camera Color Pipeline for Camera-Aware Object Compositing"
+title: "Video Instance Segmentation by Instance Flow Assembly"
 authors:
-- Jun Gao
+- Xiang Li
+- Jinglu Wang
 - Xiao Li
-- Liwei Wang
-- Sanja Fidler
-- Stephen Lin
-date: "2019-03-27T00:00:00Z"
+- Yan Lu
+date: "2021-10-20T00:00:00Z"
 # doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -22,7 +21,7 @@ publication_types: ["4"]
 publication: In *arxiv*
 publication_short: In *arxiv*
 
-abstract: We present a method for compositing virtual objects into a photograph such that the object colors appear to have been processed by the photo’s camera imaging pipeline. Compositing in such a camera-aware manner is essential for high realism, and it requires the color transformation in the photo’s pipeline to be inferred, which is challenging due to the inherent one-to-many mapping that exists from a scene to a photo. To address this problem for the case of a single photo taken from an unknown camera, we propose a dual-learning approach in which the reverse color transformation (from the photo to the scene) is jointly estimated. Learning of the reverse transformation is used to facilitate learning of the forward mapping, by enforcing cycle consistency of the two processes. We additionally employ a feature sharing schema to extract evidence from the target photo in the reverse mapping to guide the forward color transformation. Our dual-learning approach achieves object compositing results that surpass those of alternative techniques.
+abstract: Instance segmentation is a challenging task aiming at classifying and segmenting all object instances of specific classes. While two-stage box-based methods achieve top performances in the image domain, they cannot easily extend their superiority into the video domain. This is because they usually deal with features or images cropped from the detected bounding boxes without alignment, failing to capture pixel-level temporal consistency. We embrace the observation that bottom-up methods dealing with box-free features could offer accurate spacial correlations across frames, which can be fully utilized for object and pixel level tracking. We first propose our bottom-up framework equipped with a temporal context fusion module to better encode inter-frame correlations. Intra-frame cues for semantic segmentation and object localization are simultaneously extracted and reconstructed by corresponding decoders after a shared backbone. For efficient and robust tracking among instances, we introduce an instance-level correspondence across adjacent frames, which is represented by a center-to-center flow, termed as instance flow, to assemble messy dense temporal correspondences. Experiments demonstrate that the proposed method outperforms the state-of-the-art online methods (taking image-level input) on the challenging Youtube-VIS dataset.
 
 # Summary. An optional shortened abstract.
 summary: arxiv Preprint
@@ -32,7 +31,7 @@ summary: arxiv Preprint
 #featured: true
 
 links:
-url_pdf: https://arxiv.org/abs/1903.11248
+url_pdf: https://arxiv.org/abs/2110.10599
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
