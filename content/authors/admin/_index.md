@@ -64,7 +64,7 @@ email: ""
 # - Visitors
 ---
 
-I am currently a researcher in <a href=https://www.microsoft.com/en-us/research/group/media-computing-group>Media Computing group</a> at <a href="https://www.msra.cn/">Microsoft Research Asia (MSRA)</a>. 
+I am currently a senior researcher in <a href=https://www.microsoft.com/en-us/research/group/media-computing-group>Media Computing group</a> at <a href="https://www.msra.cn/">Microsoft Research Asia (MSRA)</a>. 
 Prior to joining MSRA, I was a researcher / alogrithm engineer in <a href="http://www.chongyangma.com/team/index.html">Graphics AI team</a> at <a href="https://www.kuaishou.com/">Kuaishou Technology (Kwai Inc.)</a>.
 
 I got my Ph.D. degree from the joint Ph.D. program between <a href="https://www.ustc.edu.cn/">Unitersity of Science and Technology of China (USTC)</a> and MSRA in 2019, under the supervision of Dr. Baining Guo and Dr. Yong Wang. I obtained my B.Eng. degree in Eletronic Engineering also from USTC in 2013.
