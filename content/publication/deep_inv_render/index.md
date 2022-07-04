@@ -32,7 +32,7 @@ summary: SIGGRAPH 2019
 #featured: true
 
 links:
-url_pdf: https://drive.google.com/open?id=12YVRHeF8_4UQU5va5un3o6nuqQJzbi9
+url_pdf: https://gao-duan.github.io/publications/mvsvbrdf/mvsvbrdf_low_resolution.pdf
 url_code: https://github.com/msraig/DeepInverseRendering
 
 # Featured image
