@@ -76,4 +76,9 @@ From 2014 to 2019, I was a long-term research intern in <a href=https://www.micr
 Currently my research interests fall in the cross-field of computer graphics and computer vision.
 Specifically, I am interested in appearance modeling, differentiable and neural rendering, 3D shape / scene synthesis and generation.
 
-<b>Internship chances (Updated on 07/27/2021):</b> I am finding prospective research intern(s) for research projects related to Neural Rendering. Please drop me an email if you are interested in. For gap-year students, please also check the <a href="https://www.msra.cn/zh-cn/news/outreach-articles/2021-2022-%E5%BE%AE%E8%BD%AF%E4%BA%9A%E6%B4%B2%E7%A0%94%E7%A9%B6%E9%99%A2%E6%98%9F%E6%A1%A5%E8%AE%A1%E5%88%92%E5%BC%80%E6%94%BE%E7%94%B3%E8%AF%B7%E5%95%A6%EF%BC%81">MSRA StarBridge program</a> if you want to apply.
+<b>Internship chances (Updated on 07/10/2022):</b> 
+Our group is looking for research interns on <a href="https://www.msra.cn/zh-cn/jobs/interns/computer-vision-research-intern?language=chinese">computer vision</a>,
+<a href="https://www.msra.cn/zh-cn/jobs/interns/media-computing-group-research-intern?language=chinese">speech</a> and 
+<a href="https://www.msra.cn/zh-cn/jobs/interns/video-processing-and-coding-research-intern?language=chinese">video codec</a>.
+Please drop me an email if you are interested in. 
+For gap-year students, please check the <a href="https://www.msra.cn/zh-cn/connections/academic-programs/xingqiao">MSRA StarBridge program</a> if you want to apply.
