@@ -24,7 +24,7 @@ publication_short: In *arxiv*
 abstract: We present a new method for estimating the Neural \textbf{Reflectance} Field (NReF) of an object from a set of posed multi-view images under unknown lighting. NReF represents 3D geometry and appearance of objects in a disentangled manner, and are hard to be estimated from images only. Our method solve this problem by exploiting the Neural \textbf{Radiance} Field (NeRF) as a proxy representation, from which we perform further decomposition. A high-quality NeRF decomposition relies on good geometry information extraction as well as good prior terms to properly resolve ambiguities between different components. To extract high-quality geometry information from radiance fields, we re-design a new ray-casting based method for surface point extraction. To efficiently compute and apply prior terms, we convert different prior terms into different type of filter operations on the surface extracted from radiance field. We then employ two type of auxiliary data structures, namely Gaussian KD-tree and octree, to support fast querying of surface points and efficient computation of surface filters during training. Based on this, we design a multi-stage decomposition optimization pipeline for estimating neural reflectance field from neural radiance fields. Extensive experiments show our method outperforms other state-of-the-art methods on different data, and enable high-quality free-view relighting as well as material editing tasks.
 
 # Summary. An optional shortened abstract.
-summary: arxiv Preprint
+summary: arxiv Preprint (Coming soon)
 
 #tags:
 #- Source Themes
