@@ -30,7 +30,7 @@ summary: arxiv Preprint
 #featured: true
 
 links:
- url_pdf: https://arxiv.org/pdf/2210.04217
+url_pdf: https://arxiv.org/pdf/2210.04217
 # url_code: https://github.com/msraig/InexactSA
 
 # Featured image
