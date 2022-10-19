@@ -1,7 +1,7 @@
 ---
 title: "Estimating Neural Reflectance Field from Radiance Field using Tree Structures"
 authors:
-- Xiu Li
+- Xiu Li*
 - Xiao Li
 - Yan Lu
 date: "2022-07-09T00:00:00Z"

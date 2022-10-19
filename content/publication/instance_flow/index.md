@@ -1,7 +1,7 @@
 ---
 title: "Video Instance Segmentation by Instance Flow Assembly"
 authors:
-- Xiang Li
+- Xiang Li*
 - Jinglu Wang
 - Xiao Li
 - Yan Lu

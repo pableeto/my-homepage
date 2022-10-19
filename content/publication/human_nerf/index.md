@@ -1,8 +1,8 @@
 ---
 title: "Neural Capture of Animatable 3D Human from Monocular Video"
 authors:
-- Gusi Te
-- Xiu Li
+- Gusi Te*
+- Xiu Li*
 - Xiao Li
 - Jinglu Wang
 - Wei Hu

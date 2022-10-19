@@ -1,9 +1,9 @@
 ---
 title: "R^2-VOS: Robust Referring Video Object Segmentation via Relational Cycle Consistency"
 authors:
-- Xiang Li
+- Xiang Li*
 - Jinglu Wang
-- Xiaohao Xu
+- Xiaohao Xu*
 - Xiao Li
 - Yan Lu
 - Bhiksha Raj

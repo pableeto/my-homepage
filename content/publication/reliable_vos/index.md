@@ -1,7 +1,7 @@
 ---
 title: "Reliable Propagation Correction Modulation for Video Object Segmentation"
 authors:
-- Xiaohao Xu
+- Xiaohao Xu*
 - Jinglu Wang
 - Xiao Li
 - Yan Lu
