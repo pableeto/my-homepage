@@ -15,16 +15,16 @@ date: "2021-10-20T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["4"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *arxiv*
-publication_short: In *arxiv*
+publication: Accepted to IEEE Transactions on Multimedia
+publication_short: Accepted to TMM
 
 abstract: Instance segmentation is a challenging task aiming at classifying and segmenting all object instances of specific classes. While two-stage box-based methods achieve top performances in the image domain, they cannot easily extend their superiority into the video domain. This is because they usually deal with features or images cropped from the detected bounding boxes without alignment, failing to capture pixel-level temporal consistency. We embrace the observation that bottom-up methods dealing with box-free features could offer accurate spacial correlations across frames, which can be fully utilized for object and pixel level tracking. We first propose our bottom-up framework equipped with a temporal context fusion module to better encode inter-frame correlations. Intra-frame cues for semantic segmentation and object localization are simultaneously extracted and reconstructed by corresponding decoders after a shared backbone. For efficient and robust tracking among instances, we introduce an instance-level correspondence across adjacent frames, which is represented by a center-to-center flow, termed as instance flow, to assemble messy dense temporal correspondences. Experiments demonstrate that the proposed method outperforms the state-of-the-art online methods (taking image-level input) on the challenging Youtube-VIS dataset.
 
 # Summary. An optional shortened abstract.
-summary: arxiv Preprint
+summary: IEEE Transactions on Multimedia (to appear)
 
 #tags:
 #- Source Themes
