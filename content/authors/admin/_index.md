@@ -73,10 +73,10 @@ From 2014 to 2019, I was a long-term research intern in <a href=https://www.micr
 
 (<a href = "https://mp.weixin.qq.com/s?__biz=MzA4NzIyMDY0OA==&mid=2655393474&idx=1&sn=7268b5e38dddbb216f6354de3a9cf1e4&scene=19#wechat_redirect">Here</a> is an article about my wonderful internship experience at MSRA.)
 
-Currently my research interests fall in the cross-field of computer graphics and computer vision.
-Specifically, I am interested in appearance modeling, differentiable and neural rendering, 3D shape / scene synthesis and generation.
+Currently my research interests fall in computer graphics and computer vision.
+Specifically, I am interested in 3D synthesis and generation, neural rendering, and multi-modality.
 
-<b>Internship chances (Updated on 07/10/2022):</b> 
+<b>Internship chances (Updated on 03/08/2023):</b> 
 Our group is looking for research interns on <a href="https://www.msra.cn/zh-cn/jobs/interns/computer-vision-research-intern?language=chinese">computer vision</a>,
 <a href="https://www.msra.cn/zh-cn/jobs/interns/media-computing-group-research-intern?language=chinese">speech</a> and 
 <a href="https://www.msra.cn/zh-cn/jobs/interns/video-processing-and-coding-research-intern?language=chinese">video codec</a>.
