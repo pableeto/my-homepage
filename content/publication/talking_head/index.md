@@ -23,9 +23,7 @@ publication_types: ["1"]
 publication: In *CVPR 2023*
 publication_short: In *CVPR 2023*
 
-abstract: Talking head generation is to generate video based on a given source identity. However, existing methods are suffering from many challenges in getting a natural and controllable video generation. First, the generated human face usually has strange deformation and severe distortions. Second, the controllability of different attributes during the generation process is limited as the movement information, including poses and expressions, is implicitly entangled in the driving image. Moreover, due to the reliability of the extracted keypoints between the adjacent frames, the generated video flickering issue also frequently exists. In this paper, we propose a novel model to produce high-fidelity talking head videos and enable head pose and expression to be freely controllable. Specifically, our method simultaneously utilizes the self-supervised learned keypoints and the 3D face model-based landmarks. A novel motion-aware multi-scale feature alignment module is proposed to effectively transfer the motion without face distortion. We further improve the smoothness of the synthesized talking head videos with a feature context adaptation and propagation module.
-Extensive experimental results on challenging datasets demonstrate the state-of-the-art performance of our model. The code will be made publicly available.
-
+abstract: Talking head generation is to generate video based on a given source identity. However, existing methods are suffering from many challenges in getting a natural and controllable video generation. First, the generated human face usually has strange deformation and severe distortions. Second, the controllability of different attributes during the generation process is limited as the movement information, including poses and expressions, is implicitly entangled in the driving image. Moreover, due to the reliability of the extracted keypoints between the adjacent frames, the generated video flickering issue also frequently exists. In this paper, we propose a novel model to produce high-fidelity talking head videos and enable head pose and expression to be freely controllable. Specifically, our method simultaneously utilizes the self-supervised learned keypoints and the 3D face model-based landmarks. A novel motion-aware multi-scale feature alignment module is proposed to effectively transfer the motion without face distortion. We further improve the smoothness of the synthesized talking head videos with a feature context adaptation and propagation module. Extensive experimental results on challenging datasets demonstrate the state-of-the-art performance of our model. The code will be made publicly available.
 # Summary. An optional shortened abstract.
 summary: CVPR 2023
 
@@ -33,7 +31,7 @@ summary: CVPR 2023
 #- Source Themes
 #featured: true
 
-links:
+# links:
 #url_pdf: https://arxiv.org/abs/2112.02853
 #url_code: https://github.com/msraig/InexactSA
 
