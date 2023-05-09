@@ -33,7 +33,7 @@ summary: CVPR 2023
 #featured: true
 
 # links:
-#url_pdf: https://arxiv.org/abs/2112.02853
+url_pdf: https://arxiv.org/abs/2112.02853
 #url_code: https://github.com/msraig/InexactSA
 
 # Featured image
