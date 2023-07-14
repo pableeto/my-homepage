@@ -35,7 +35,7 @@ summary: CVPR 2023
 
 # links:
 url_pdf: https://arxiv.org/pdf/2303.12078
-#url_code: https://github.com/msraig/InexactSA
+url_code: https://github.com/yk-pku/Two-shot-Video-Object-Segmentation
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
