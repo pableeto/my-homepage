@@ -36,8 +36,8 @@ summary: CVPR 2023
 #featured: true
 
 # links:
-#url_pdf: https://arxiv.org/abs/2112.02853
-#url_code: https://github.com/msraig/InexactSA
+url_pdf: https://arxiv.org/abs/2304.10179.pdf
+url_code: https://github.com/yushuang-wu/SCoDA
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
