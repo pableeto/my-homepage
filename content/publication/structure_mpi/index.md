@@ -34,7 +34,7 @@ summary: CVPR 2023
 
 # links:
 url_pdf: https://arxiv.org/pdf/2303.05937
-#url_code: https://github.com/msraig/InexactSA
+url_code: https://github.com/mf-zhang/Structural-MPI
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
