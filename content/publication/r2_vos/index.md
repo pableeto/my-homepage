@@ -7,7 +7,7 @@ authors:
 - Xiao Li
 - Yan Lu
 - Bhiksha Raj
-date: "2022-10-01T00:00:00Z"
+date: "2023-07-04T00:00:00Z"
 # doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -20,13 +20,13 @@ date: "2022-10-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *arxiv*
-publication_short: In *arxiv*
+publication: In ICCV 2023
+publication_short: In ICCV 2023
 
 abstract: Referring video object segmentation (R-VOS) aims to segment the object masks in a video given a referring linguistic expression to the object. It is a recently introduced task attracting growing research attention. However, all existing works make a strong assumption that the object depicted by the expression must exist in the video, namely, the expression and video must have an object-level semantic consensus. This is often violated in real-world applications where an expression can be queried to false videos, and existing methods always fail in such false queries due to abusing the assumption. In this work, we emphasize that studying semantic consensus is necessary to improve the robustness of R-VOS. Accordingly, we pose an extended task from R-VOS without the semantic consensus assumption, named Robust R-VOS (R2-VOS). The R2 -VOS task is essentially related to the joint modeling of the primary R-VOS task and its dual problem (text reconstruction). We embrace the observation that the embedding spaces have relational consistency through the cycle of text-video-text transformation, which connects the primary and dual problems. We leverage the cycle consistency to discriminate the semantic consensus, thus advancing the primary task. Parallel optimization of the primary and dual problems are enabled by introducing an early grounding medium. A new evaluation dataset, R2-Youtube-VOS, is collected to measure the robustness of R-VOS models against unpaired videos and expressions. Extensive experiments demonstrate that our method not only identifies negative pairs of unrelated expressions and videos, but also improves the segmentation accuracy for positive pairs with a superior disambiguating ability. Our model achieves the state-of-the-art performance on Ref-DAVIS17, Ref-Youtube-VOS, and the novel R2-Youtube-VOS dataset.
 
 # Summary. An optional shortened abstract.
-summary: arxiv Preprint
+summary: ICCV 2023
 
 #tags:
 #- Source Themes
