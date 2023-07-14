@@ -34,7 +34,7 @@ summary: ECCV 2022
 
 links:
 url_pdf: https://arxiv.org/abs/2208.08728
-url_code: https://github.com/tegusi/NeuralCapture
+#url_code: https://github.com/tegusi/NeuralCapture
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
