@@ -33,7 +33,7 @@ summary: ICCV 2023
 #featured: true
 
 links:
- url_pdf: https://arxiv.org/pdf/2308.11130.pdf
+url_pdf: https://arxiv.org/pdf/2308.11130.pdf
 # url_code: https://github.com/lxa9867/R2VOS
 
 # Featured image
