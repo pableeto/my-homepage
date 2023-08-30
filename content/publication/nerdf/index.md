@@ -5,6 +5,7 @@ authors:
 - Xiao Li
 - Jinglu Wang
 - Xiaoguang Han
+- Shuguang Cui
 - Yan Lu
 date: "2023-07-04T00:00:00Z"
 # doi: ""
@@ -32,7 +33,7 @@ summary: ICCV 2023
 #featured: true
 
 links:
-# url_pdf: https://arxiv.org/pdf/2207.01203.pdf
+ url_pdf: https://arxiv.org/pdf/2308.11130.pdf
 # url_code: https://github.com/lxa9867/R2VOS
 
 # Featured image
